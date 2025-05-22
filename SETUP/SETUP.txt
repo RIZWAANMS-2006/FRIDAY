@@ -1,0 +1,35 @@
+THERE ARE FEW CONDITION TO USE THIS PROGRAM.
+
+TO USE THIS PROGRAM YOU WOULD HAVE TO INSTALL FEW MODULES.
+THEY ARE:
+
+	1) pyttsx3
+	2) pyaudio
+	3) pyjokes
+	4) pywhatkit
+	5) speech_recognition
+	6) pyenchant
+	7) mysql.connector
+	8) python_weather
+
+step 1: 'cd C:\\Users\\M.S.MOHAMED RIZWAAN\\AppData\\Local\\Programs\\Python\\Python311'
+
+step 2: 'python -m pip install pyttsx3'
+
+step 3: 'python -m pip install pyaudio'
+
+step 4: 'python -m pip install pyjokes'
+
+step 5: 'python -m pip install pywhatkit'
+
+step 6: 'python -m pip install speech_recognition'
+
+step 7: 'python -m pip install enchant'
+
+step 8: 'python -m pip install mysql.connector'
+
+step 9: 'python -m pip install wikipedia'
+
+step 10: 'python -m pip install python-weather'
+
+step 11: 'exit'
